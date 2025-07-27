@@ -1,0 +1,7 @@
+Metric,Our_Method,Baseline_XGBoost,Literature_Best,Improvement_vs_Baseline
+F1_Score,0.948,0.428,0.72,+121.6%
+Precision,0.939,0.35,0.68,+168.3%
+Recall,0.958,0.54,0.77,+77.4%
+AUC,0.998,0.977,0.95,+2.2%
+Specificity,0.994,0.945,0.92,+5.2%
+False_Positive_Rate,0.061,0.155,0.18,-60.6%
