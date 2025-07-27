@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Data files
+*.edf
+*.mat
+data/raw/
+
+# Models
+*.pkl
+*.joblib
+models/saved/*.h5
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.zip
+*.tar.gz
